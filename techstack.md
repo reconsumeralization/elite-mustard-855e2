@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 reconsumeralization/elite-mustard-855e2 is built on the following main stack:
+
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -11,11 +12,13 @@ reconsumeralization/elite-mustard-855e2 is built on the following main stack:
 - [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 reconsumeralization/elite-mustard-855e2 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -25,14 +28,15 @@ reconsumeralization/elite-mustard-855e2 is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png' alt='Gatsby'/> [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [reconsumeralization/elite-mustard-855e2](https://github.com/reconsumeralization/elite-mustard-855e2)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|11/09/23 <br/>Report generated|
+|22<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -147,7 +151,7 @@ Full tech stack [here](/techstack.md)
 |[gatsby-source-filesystem](https://www.npmjs.com/gatsby-source-filesystem)|v2.3.10|02/01/21|Stackbit |MIT|N/A|
 |[gatsby-transformer-remark](https://www.npmjs.com/gatsby-transformer-remark)|v2.8.14|02/01/21|Stackbit |MIT|[CVE-2023-22491](https://github.com/advisories/GHSA-7ch4-rr99-cqcw) (High)|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.0|02/01/21|Stackbit |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.6.3|02/01/21|Stackbit |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[](https://github.com/advisories/GHSA-ch52-vgq2-943f) (Low)|
+|[marked](https://www.npmjs.com/marked)|v0.6.3|02/01/21|Stackbit |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-ch52-vgq2-943f) (Low)|
 |[moment](https://www.npmjs.com/moment)|v2.26.0|02/01/21|Stackbit |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[node-sass](https://www.npmjs.com/node-sass)|v9.0.0|05/27/23|depfu[bot] |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v16.13.1|02/01/21|Stackbit |MIT|N/A|
@@ -157,4 +161,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
